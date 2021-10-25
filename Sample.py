@@ -8,9 +8,11 @@ sum=num1+num2
 print('The sum of {0} and {1} is {2}'.format(num1,num2,sum))
 The sum of 1.7 and 7.8 is 9.5
 
-print("Hello TE Comps)
       
 SyntaxError: unterminated string literal (detected at line 1)
 print("Hello TE Comps")
       
 Hello TE Comps
+
+print("This is SE exp")
+      
